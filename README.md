@@ -2,7 +2,7 @@
 <h3 align="center">Mechatronics & Robotics Engineering Student | Robotics · Automation · Embedded Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedabdel-aal-mohamed-2844693a2">
+  <a href="www.linkedin.com/in/mohamed-abdel-aal-mohamed-2844693a2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:mohamedabdelaalmohamed0@gmail.com">
@@ -49,11 +49,10 @@
 | **[Autonomous Warehouse Mobile Robot](https://github.com/mohamedelnahas2004/Autonomous-Warehouse-Mobile-Robot)** | Autonomous warehouse navigation stack on ROS2 Jazzy — SLAM-based mapping, AMCL localization, and Nav2-driven multi-waypoint missions for a simulated TurtleBot3 Burger in Gazebo. |
 | **CNC Plasma Cutting Machine** | Built and controlled via Mach3, including a custom plasma torch holder design. |
 
-*(Add repo links above for each project as they go public.)*
 
 ---
 
 ### 📫 Reach Me
 
 - 📧 mohamedabdelaalmohamed0@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedabdel-aal-mohamed-2844693a2)
+- 💼 [LinkedIn](www.linkedin.com/in/mohamed-abdel-aal-mohamed-2844693a2)
