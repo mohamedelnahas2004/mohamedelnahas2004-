@@ -53,15 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedelnahas2004&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelnahas2004&layout=compact" />
-</p>
-
----
-
 ### 📫 Reach Me
 
 - 📧 mohamedabdelaalmohamed0@gmail.com
