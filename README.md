@@ -49,7 +49,7 @@
 | **[Autonomous Warehouse Mobile Robot](https://github.com/mohamedelnahas2004/Autonomous-Warehouse-Mobile-Robot)** | Autonomous warehouse navigation stack on ROS2 Jazzy — SLAM-based mapping, AMCL localization, and Nav2-driven multi-waypoint missions for a simulated TurtleBot3 Burger in Gazebo. |
 | **CNC Plasma Cutting Machine** | Built and controlled via Mach3, including a custom plasma torch holder design. |
 
-*(Add repo links above for each project as they go public.)*
+
 
 ---
 
